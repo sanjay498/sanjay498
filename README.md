@@ -1,240 +1,216 @@
-# <h1 align="center">Hi 👋, I'm Sanjay Kumar</h1>
+# Hi 👋, I'm **Sanjay Kumar**
 
-<h3 align="center">
-🚀 Backend Developer | Java & Spring Boot Enthusiast | Cloud & System Design Learner
-</h3>
-
+```{=html}
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Java+%7C+Spring+Boot;Learning+System+Design;Cloud+%7C+Docker+%7C+AWS;Building+Scalable+Applications" />
+```
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Sanjay%20Kumar&fontSize=60&fontColor=00d4ff&animation=fadeIn"/>`{=html}
+```{=html}
 </p>
+```
+```{=html}
+<h3 align="center">
+```
+🚀 Backend Engineer \| Java & Spring Boot \| Cloud & System Design
+Enthusiast
+```{=html}
+</h3>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Java+%7C+Spring+Boot;REST+APIs;System+Design;Docker+%7C+AWS;Building+Scalable+Applications"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>`{=html}
+```{=html}
+</p>
+```
 
----
+------------------------------------------------------------------------
 
-## 👨‍💻 About Me
+# 🚀 About Me
 
-I'm a passionate Software Engineer focused on **Backend Development**, **Distributed Systems**, and **Cloud Technologies**.
+I'm a passionate **Backend Engineer** who enjoys designing scalable
+systems and building production-ready backend applications.
 
-* 🌱 Currently learning **Spring Boot, System Design, Docker, Kubernetes & AWS**
-* ☕ Building scalable backend applications using **Java**
-* 🛠 Interested in **Microservices**, **REST APIs**, **Caching**, **Redis**, and **Message Queues**
-* 🌐 Exploring **Networking**, **Linux**, and **DevOps**
-* 🎯 Goal: Become a Backend Software Engineer at a top product company
+-   ☕ Java Backend Developer
+-   🌱 Learning Spring Boot, Docker, AWS, Kubernetes
+-   📡 Passionate about System Design & Distributed Systems
+-   ⚡ Love REST APIs, Redis, Kafka & Microservices
+-   🎯 Looking for **Backend Developer** opportunities
 
----
+------------------------------------------------------------------------
 
 # 🛠 Tech Stack
 
-### 💻 Programming Languages
+### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python" />
-</p>
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
-### 🌐 Backend
+### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,maven" />
-</p>
+![Spring](https://skillicons.dev/icons?i=spring,maven)
 
-### 🗄 Database
+### DevOps & Cloud
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48"/>
-</p>
+![Docker](https://skillicons.dev/icons?i=docker,aws,linux,bash,git,github)
 
-### ☁ Cloud & DevOps
+### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,nginx" />
-</p>
+![Postman](https://skillicons.dev/icons?i=postman,vscode,idea)
 
-### 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
-</p>
-
----
+------------------------------------------------------------------------
 
 # 📚 Currently Learning
 
-* Java Collections Framework
-* Spring Boot
-* Spring Security
-* JWT Authentication
-* REST APIs
-* Redis
-* Docker
-* AWS
-* Kubernetes
-* Kafka
-* RabbitMQ
-* Microservices
-* System Design
-* Networking
-* Linux
+-   Spring Security
+-   Redis
+-   Kafka
+-   RabbitMQ
+-   Docker
+-   Kubernetes
+-   AWS
+-   System Design
+-   Distributed Systems
 
----
+------------------------------------------------------------------------
 
-# 🚀 Backend Roadmap
+# 🏗 Backend Roadmap
 
-```text
+``` text
 Java
-   │
-   ▼
+ ↓
 Spring Boot
-   │
-   ▼
+ ↓
 REST APIs
-   │
-   ▼
+ ↓
 MySQL
-   │
-   ▼
+ ↓
 Redis
-   │
-   ▼
-JWT Authentication
-   │
-   ▼
+ ↓
 Docker
-   │
-   ▼
+ ↓
 AWS
-   │
-   ▼
+ ↓
 Kafka
-   │
-   ▼
+ ↓
 Microservices
-   │
-   ▼
+ ↓
 Kubernetes
-   │
-   ▼
+ ↓
 System Design
 ```
 
----
+------------------------------------------------------------------------
+
+# 🚀 Featured Projects
+
+## 📚 Employee Management System
+
+-   Spring Boot
+-   REST APIs
+-   JPA/Hibernate
+-   Layered Architecture
+-   CRUD Operations
+
+## 💰 Automated Salary System
+
+-   Salesforce
+-   Make.com
+-   REST APIs
+-   Event Driven Automation
+
+## 💳 Transaction Processing Service
+
+-   Java
+-   Spring Boot
+-   JDBC
+-   SQL
+-   REST APIs
+
+------------------------------------------------------------------------
+
+# 📜 Patent
+
+**AI-Powered Road Condition Analyzer for Smart Navigation Systems**
+
+Published Patent (Application No: 202541025731 A)
+
+------------------------------------------------------------------------
 
 # 📊 GitHub Stats
 
+```{=html}
 <p align="center">
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanjay498&show_icons=true&theme=tokyonight"/>`{=html}
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanjay498&show_icons=true&theme=tokyonight&count_private=true"/>
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay498&layout=compact&theme=tokyonight"/>`{=html}
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay498&layout=compact&theme=tokyonight"/>
-
+```{=html}
 </p>
-
----
-
-# 🔥 GitHub Streak
-
+```
+```{=html}
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sanjay498&theme=tokyonight"/>
-
+```
+`<img src="https://streak-stats.demolab.com?user=sanjay498&theme=tokyonight"/>`{=html}
+```{=html}
 </p>
-
----
-
-# 📈 Contribution Graph
-
+```
+```{=html}
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay498&theme=tokyo-night"/>
-
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay498&theme=tokyo-night"/>`{=html}
+```{=html}
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
+```
+```{=html}
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sanjay498&theme=algolia&margin-w=10&margin-h=10"/>
-
+```
+`<img src="https://github-profile-trophy.vercel.app/?username=sanjay498&theme=algolia"/>`{=html}
+```{=html}
 </p>
+```
 
----
-
-# 💼 Featured Projects
-
-### 📚 Library Management System
-
-* Java + Spring Boot
-* JWT Authentication
-* MySQL
-* Redis Cache
-* REST APIs
-
----
-
-### ☁ Cloud File Storage
-
-* Spring Boot
-* AWS S3
-* MySQL
-* Secure File Upload
-* Pre-signed URLs
-
----
-
-### 🚀 Upcoming Projects
-
-* URL Shortener
-* API Gateway
-* E-Commerce Backend
-* Distributed Cache
-* Kafka Notification Service
-* Expense Tracker API
-* Real-Time Chat Application
-* Microservices Banking System
-
----
+------------------------------------------------------------------------
 
 # 🎯 2026 Goals
 
-* Master Spring Boot
-* Learn Kubernetes
-* Build Production-grade APIs
-* Deploy applications on AWS
-* Learn Distributed Systems
-* Master System Design
-* Contribute to Open Source
-* Solve 500+ DSA Problems
-* Get into a Product-Based Company
+-   ✅ Master Spring Boot
+-   ✅ Build 10+ Backend Projects
+-   ✅ Learn Kubernetes
+-   ✅ Deploy Applications on AWS
+-   ✅ Master System Design
+-   ✅ Crack a Product-Based Company
 
----
+------------------------------------------------------------------------
 
-# 🌐 Connect With Me
+# 📫 Connect With Me
 
+-   📧 Email: **sanjaykyeri@gmail.com**
+-   💼 LinkedIn: https://linkedin.com/in/sanjay1157
+-   🐙 GitHub: https://github.com/sanjay498
+
+```{=html}
 <p align="center">
-
-<a href="https://github.com/sanjay498">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOURMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### 💡 "Code. Learn. Build. Repeat."
-
-*"Great software is built one commit at a time."*
+```
+> **"Code. Learn. Build. Repeat."**
 
 ⭐ Thanks for visiting my profile!
 
+```{=html}
 </p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>`{=html}
+```{=html}
+</p>
+```
